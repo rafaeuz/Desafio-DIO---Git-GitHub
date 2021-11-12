@@ -1,6 +1,8 @@
 # Desafio-Dio--Git-Github
 
 ## Conceitos básicos do Git/GitHub
- -  Contém uma lista com os principais comandos do Git
- -  Contém exemplos escritos em Markdown
+Contém:
+ -  Lista com os principais comandos do Git
+ -  Exemplos escritos em Markdown
+ -  Comandos básicos do git bash
 ![Logo GitHub](/src/Octocat.jpg)
