@@ -4,4 +4,4 @@
 Contém uma lista com os principais comandos do Git
 
 
-![Logo GitHub](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
+![Logo GitHub](https://upload.wikimedia.org/wikipedia/commons/5/54/GitHub_Logo.png)
