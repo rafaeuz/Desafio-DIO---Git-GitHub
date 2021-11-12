@@ -4,4 +4,4 @@
 Contém uma lista com os principais comandos do Git
 
 
-![Logo GitHub](https://avatars.githubusercontent.com/u/583231?v=4)
+![Logo GitHub](/src/Octocat.jpg)
