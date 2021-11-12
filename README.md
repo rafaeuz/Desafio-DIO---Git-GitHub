@@ -1,4 +1,7 @@
 # Desafio-Dio--Git-Github
 
-## Teste 1: Inserir uma imagem:
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+# Aprendendo
+Contém uma lista com os principais comandos do Git
+
+
+![Logo GitHub](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
