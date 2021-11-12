@@ -4,5 +4,5 @@
 Contém:
  -  Lista com os principais comandos do Git
  -  Exemplos escritos em Markdown
- -  Comandos básicos do git bash
+ -  Comandos básicos do bash
 ![Logo GitHub](/src/Octocat.jpg)
