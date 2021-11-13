@@ -43,3 +43,5 @@ ___
 `git branch XXXXX`  : Cria branch com nome xxxxx
 
 `git checkout xxx` : Muda a árvore de trabalho
+
+`git merge` : Mescla alterações
