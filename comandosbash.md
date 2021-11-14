@@ -48,6 +48,10 @@
 
 `pwd`: diretório de trabalho
 
+`jobs`: mostra trabalhos em execução e parados (crtl+z)
+
+`fg`: continua jobs (seleciona 1, 2...)
+
 ">, >>, |, &, &&"
 
 
