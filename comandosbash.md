@@ -38,7 +38,9 @@
 
 `man comando`: Manual do comando
 
-`which comando`: Mostra local do comando
+`which comando`: Mostra caminho do comando
+
+`whereis comando`: Caminho e manual do comando
 
 `apropos`: Busca comandos 
 
@@ -88,5 +90,79 @@
 
 ## Grupos
 
+`adduser`
 
+`deluser`: deleta usuário `-r`também deleta a pasta
+
+`userdel`
+
+`passwd nomedousuario`: altera password
+
+`lastlog`: informações de logs dos usuários
+
+`last` : logs do usuário
+
+`logname`
+
+`id`
+
+`groups`
+
+`addgroup`
+
+`groupdel`
+
+`adduser usuario grupo`: adiciona usuário ao grupo
+
+`gpasswd -a usuario grupo`: adiciona usuário ao grupo tbm
+
+`gpasswd -d usuario grupo`: remove usuário ao grupo tbm
+
+`chmod` arquivo : modifica permissões em diretórios e arquivos.
+
+| r    | w    | x    | r    | w    | x    | r    | w    | x    |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 4    | 2    | 1    | 4    | 2    | 1    | 4    | 2    | 1    |
+
+Exemplo: chmod 754 arquivo :  
+
+| Owner | Group | Others |
+| ----- | ----- | ------ |
+| rwx   | rw    | r      |
+
+verificar com `ls -l`
+
+## Compactar
+
+`gzip` e `gunzip`
+
+`zip` e `unzip`
+
+`rar` e `rar -x`
+
+`bzip2`e `bzip2 -d`
+
+`tar -czf` : compacta com zip 
+
+`tar -xzf` : descompacta com zip
+
+`tar -tf`: exibe os arquivos no pacote tar 
+
+
+
+## TXT
+
+`wc` : conta palavras
+
+`cmp`: compara conteúdo de dois arquivos
+
+`sort`: ordena as linhas do arquivo -n (numérico)
+
+
+
+## Pacotes
+
+`apt update && apt upgrade`
+
+`dpkg`
 
